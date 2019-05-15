@@ -1,1 +1,8 @@
 README
+
+
+muscle_emg_process.ino file collects EMG signals
+
+combat101.ino is the game engine.
+
+Please refer to the wiki page.
